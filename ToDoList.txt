@@ -1,0 +1,21 @@
+To Do:
+
+- Criar um ambiente virtual, instalar o django e criar o projeto  (FEITO)
+- Páginas base (templates)  (FEITO)
+   - Criar app para as Páginas (FEITO)
+   - Criar templates base (FEITO)
+   - Criar página principal (FEITO)
+   - Criar página sobre (FEITO)
+- Autenticação
+   - Criar BD modelo para o user profiles (FEITO)
+   - Permitir se registrar (FEITO)
+   - Permitir logar
+   - permitir deslogar
+- Dashboard simples
+- Criar leads
+- Atualizar e deletar leads
+- Converter leads para clientes
+- Atualizar e deletar clientes
+- Implementar soluções para times
+- Implementar soluções de pagamento(pagamentos mensais)
+- Deploy
